@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    height: 10vh;
+    background-color: brown;
+    color: white;
+    text-align: center;
+}
+
+div>p{
+    position: relative;
+    top: 15px;
+    font-size: 40px;
+}
+
+.h1{
+    background-color: red;
+    color: white;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+}
+
+.i1{
+    background-color: gray;
+    height: 500px;
+    font-size: 50px;
+}
+.i1>img{
+    height: 500px;
+    width: 100%;
+}
+
+
+.h2{
+    background-color: orange;
+    color: white;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+}
+
+.i2{
+    background-color: gray;
+    height: 500px;
+}
+
+.i2>img{
+    width: 100%;
+    height: 100%;
+}
+
+.h3{
+    background-color: red;
+    color: white;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+}
+
+
+.i3{
+    background-color: gray;
+    height: 500px;
+}
+
+.i3>img{
+    width: 100%;
+    height: 100%;
+}
+
+.h4{
+    background-color: orange;
+    color: white;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+}
+
+
+.i4{
+    background-color: gray;
+    height: 500px;
+}
+
+.i4>img{
+    width: 100%;
+    height: 100%;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    height: 50vh;
+    text-align: center;
+    padding-top: 250px;
+}
